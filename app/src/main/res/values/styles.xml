@@ -8,6 +8,13 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+<!--    estilo do botão elevado-->
+    <style name="ElevadoButton" parent="TextAppearance.AppCompat.Widget.Button.Colored">
+        <item name="android:backgroundTint">@color/colorPrimaryDark</item>
+        <item name="android:textColor">@color/colorAccent</item>
+    </style>
+
+
 
 
 </resources>

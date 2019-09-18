@@ -6,4 +6,5 @@
     <string name="error_email">E-mail inválido</string>
     <string name="error_senha_empty">Preencha sua senha</string>
     <string name="error_field_empty">Este campo não pode ser vazio.</string>
+    <string name="label_btn_elevado">Botão Elevado</string>
 </resources>
