@@ -22,6 +22,7 @@ class ToolbarActivity : AppCompatActivity() {
 
     }
 
+    //adiciona o menu personalizado a toolbar
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {
         menuInflater.inflate(R.menu.menu_toolbar, menu)
         return true

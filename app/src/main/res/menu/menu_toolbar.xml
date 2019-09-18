@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
     <item android:title="Buscar"
-        android:id="@+id/buscar_menu"/>
+        android:id="@+id/buscar_menu"
+        app:showAsAction="always"/>
 
     <item android:title="Carrinho"
-        android:id="@+id/carrinho_menu"/>
+        android:id="@+id/carrinho_menu"
+        app:showAsAction="always"/>
 
     <item android:title="Configurações"
         android:id="@+id/config_menu"/>
