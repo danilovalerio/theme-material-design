@@ -45,6 +45,4 @@
         android:backgroundTint="@color/colorPrimaryDark"
         app:elevation="8dp"/>
 
-
-
 </androidx.constraintlayout.widget.ConstraintLayout>
