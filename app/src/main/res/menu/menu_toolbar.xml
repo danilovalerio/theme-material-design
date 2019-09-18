@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Buscar"
+        android:id="@+id/buscar_menu"/>
+
+    <item android:title="Carrinho"
+        android:id="@+id/carrinho_menu"/>
+
+    <item android:title="Configurações"
+        android:id="@+id/config_menu"/>
+
+    <item android:title="Sobre"
+        android:id="@+id/sobre_menu"/>
+</menu>

@@ -7,4 +7,10 @@
     <string name="error_senha_empty">Preencha sua senha</string>
     <string name="error_field_empty">Este campo não pode ser vazio.</string>
     <string name="label_btn_elevado">Botão Elevado</string>
+
+<!--    opções do menu-->
+    <string name="buscar_menu">Buscar</string>
+    <string name="carrinho_menu">Carrinho</string>
+    <string name="config_menu">Configurações</string>
+    <string name="sobre_menu">Sobre</string>
 </resources>
