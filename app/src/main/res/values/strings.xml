@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ThemeMaterialDesign</string>
+    <string name="hint_email">Digite seu e-mail...</string>
+    <string name="hint_senha">Digite sua senha...</string>
 </resources>
