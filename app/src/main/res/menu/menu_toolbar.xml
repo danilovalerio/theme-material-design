@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto">
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar">
     <item android:title="Buscar"
         android:id="@+id/buscar_menu"
+        android:icon="@drawable/ic_search"
         app:showAsAction="always"/>
 
     <item android:title="Carrinho"
         android:id="@+id/carrinho_menu"
+        android:icon="@drawable/ic_shopping_cart"
         app:showAsAction="always"/>
 
     <item android:title="Configurações"
